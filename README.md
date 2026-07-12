@@ -9,10 +9,9 @@ I write code that fetches, parses, and makes sense of data from the web. Most of
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-59666C?style=flat-square)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
@@ -34,8 +33,10 @@ I write code that fetches, parses, and makes sense of data from the web. Most of
 
 ### 📊 GitHub Stats
 
-![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShantanuRauthan&show_icons=true&theme=graywhite&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShantanuRauthan&layout=compact&theme=graywhite&hide_border=true)
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShantanuRauthan&theme=graywhite)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShantanuRauthan&theme=graywhite&hide_border=true)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShantanuRauthan&layout=compact&theme=graywhite&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
