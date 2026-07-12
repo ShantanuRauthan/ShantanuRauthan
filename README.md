@@ -36,7 +36,6 @@ I write code that fetches, parses, and makes sense of data from the web. Most of
 [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShantanuRauthan&theme=graywhite)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShantanuRauthan&theme=graywhite&hide_border=true)](https://git.io/streak-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShantanuRauthan&layout=compact&theme=graywhite&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
