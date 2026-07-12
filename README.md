@@ -1,6 +1,6 @@
 # Hi there, I'm Shantanu 👋
 
-**Python Developer | Web Scraping & Automation | Building tools that make data accessible**
+**Vibe Coder | Web Scraping & Automation | Building tools that make data accessible**
 
 I write code that fetches, parses, and makes sense of data from the web. Most of my projects revolve around **web scraping**, **automation**, and **API integration** — turning messy unstructured content into clean, usable output.
 
